@@ -35,8 +35,7 @@ Software: Python 3.10.3, Visual Studio Code 1.65
 
 #### 1. Total Votels in Election
 
-   <img width="340" alt="image" src="https://user-images.githubusercontent.com/94248676/159175110-b562332e-1e1f-439b-b98f-    71f47f7a7503.png">
-
+   <img width="309" alt="image" src="https://user-images.githubusercontent.com/94248676/159175513-878a99f6-a388-40e8-be9b-319a42dd9fd7.png">
 
 #### 2. Each Candidate's Total Votes & Percentage of Votes:
 
